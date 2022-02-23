@@ -1,4 +1,4 @@
-# Bachelorarbeit Scripts:
+# Descriptor selector script:
 
 Here you can find the script (train.py) for the selection of the most important features/descriptors for future feature extraction of new data entries. This script uses Mutual Information as preprocessing technique and two classification algorithms: Random Forest classifier and Logistic Regression. The user of this script can select the amount of features to be considered, obtaining the descriptors that contribute to the classification task based on their origin.
 
